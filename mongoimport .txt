@@ -1,0 +1,1 @@
+mongoimport --uri "mongodb+srv://dhruvpatel6651:Dhruv-2001@cluster1.azhkzzj.mongodb.net/" --collection data1 --db visualization --file ""C:\Users\arpit\Downloads\jsondata_sample.json"" --jsonArray
